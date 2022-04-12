@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Custom",
+    "PDFTitle": "",
+    "LikertScaleLowerExtreme" : "",
+    "LikertScaleUpperExtreme" : "",
+    "Questions": [
+        {"Question1" : ""},
+        {"Question2" : ""},
+        {"Question3" : ""},
+        {"Question4" : ""},
+        {"Question5" : ""},
+        {"Question6" : ""},
+        {"Question7" : ""},
+        {"Question8" : ""},
+        {"Question9" : ""},
+        {"Question10" : ""}
+    ],
+    "VariableDescriptors":[
+        {"Default" : ""},
+        {"Product" : ""},
+        {"System" : ""}
+    ],
+    "VariantGeneratorDescription" : "It is not recommended to independently translate or alter the SUS questionniare without validation as this can lead to confusion for participants, non-comparable results, and errors in the calculation of SUS scores. Nonetheless, here is the option to do it. If you create/find a variant or langauge not included in the tool, feel free to suggest or contribute it to the GitHub repository!",
+    "VariantAuthors" : "",
+    "VariantSource" : "",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "false",
+    "VariantIsFromPeerReviewedSource" : "false",
+    "VariantNeedForCaution" : "true",
+    "CommunityContribution" : "false"
+}

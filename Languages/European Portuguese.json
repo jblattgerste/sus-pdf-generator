@@ -1,0 +1,32 @@
+{
+    "LanguageName": "European Portuguese",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Discordo fortemente",
+    "LikertScaleUpperExtreme" : "Concordo plenamente",
+    "Questions": [
+        {"Question1" : "Acho que gostaria de utilizar [este] %VARIABLE% com frequência."},
+        {"Question2" : "Considerei [o] %VARIABLE% mais complexo do que necessário."},
+        {"Question3" : "Achei [o] %VARIABLE% fácil de utilizar."},
+        {"Question4" : "Acho que necessitaria de ajuda de um técnico para conseguir utilizar [este] %VARIABLE%."},
+        {"Question5" : "Considerei que as várias funcionalidades de[ste] %VARIABLE% estavam bem integradas."},
+        {"Question6" : "Achei que [este] %VARIABLE% tinha muitas inconsistências."},
+        {"Question7" : "Suponho que a maioria das pessoas aprenderia a utilizar rapidamente [este] %VARIABLE%."},
+        {"Question8" : "Considerei [o] %VARIABLE% muito complicado de utilizar."},
+        {"Question9" : "Senti-me muito confiante a utilizar [este] %VARIABLE%."},
+        {"Question10" : "Tive que aprender muito antes de conseguir lidar com [este] %VARIABLE%."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "produto"},
+        {"Product" : "produto"},
+        {"System" : "sistema"}
+    ],
+    "VariantGeneratorDescription" : "The portuguese translation of the SUS by Martins et al. is peer-reviewed and shows promising construct validity with significant correlations of the SUS scores with other usability metrics but showed less than satisfactory results for internal reliability. Therefore, reliability and validity might have to be investigated further.",
+    "VariantAuthors" : "Martins et al. (2015)",
+    "VariantSource" : "https://scholar.google.de/citations?view_op=view_citation&hl=de&user=yaqZR24AAAAJ&citation_for_view=yaqZR24AAAAJ:-f6ydRqryjwC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "false",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

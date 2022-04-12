@@ -1,0 +1,32 @@
+{
+    "LanguageName": "English (simplified)",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Strongly Disagree",
+    "LikertScaleUpperExtreme" : "Strongly Agree",
+    "Questions": [
+        {"Question1" : "I would use [this] %VARIABLE% frequently."},
+        {"Question2" : "[This] %VARIABLE% is too complex for me."},
+        {"Question3" : "[This] %VARIABLE% was easy to use."},
+        {"Question4" : "I really need help from someone to use [this] %VARIABLE%."},
+        {"Question5" : "The various parts of [this] %VARIABLE% were well integrated."},
+        {"Question6" : "[This] %VARIABLE% was confusing for me."},
+        {"Question7" : "Learning to use [this] %VARIABLE% was quick for me."},
+        {"Question8" : "[This] %VARIABLE% was hard to use."},
+        {"Question9" : "I felt confident using [this] %VARIABLE%."},
+        {"Question10" : "I will need to learn a lot before using [this] %VARIABLE%."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "system"},
+        {"Product" : "product"},
+        {"System" : "system"}
+    ],
+    "VariantGeneratorDescription" : "This english variant of the SUS simplifies the original SUS questionnaire to be used in the context of elderly people or people with cognitive impairments. First usages of this version indicated that SUS score distributions resembled those of the original SUS but psychometric properties still have to be evalueted further as no internal reliability or validity was evaluated.",
+    "VariantAuthors" : "Holden (2020)",
+    "VariantSource" : "https://scholar.google.de/citations?view_op=view_citation&hl=en&user=WH6emMQAAAAJ&cstart=20&pagesize=80&citation_for_view=WH6emMQAAAAJ:z_wVstp3MssC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "false",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

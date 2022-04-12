@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Spanish",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Totalmente en desacuerdo",
+    "LikertScaleUpperExtreme" : "Totalmente de acuerdo",
+    "Questions": [
+        {"Question1" : "Me parece que me gustaría utilizar [este] %VARIABLE% a menudo."},
+        {"Question2" : "Encuento [el] %VARIABLE% innecesariamente muy complejo."},
+        {"Question3" : "Pensé que [el] %VARIABLE% era fácil de usar."},
+        {"Question4" : "Considero que necesitaría el apoyo de un técnicio para poder utilizar [este] %VARIABLE%."},
+        {"Question5" : "Encontré que las varias funcionees en [este] %VARIABLE% estaban bien integradas."},
+        {"Question6" : "Pensé que había demasiadas inconsistencias en [este] %VARIABLE%."},
+        {"Question7" : "Creía que la mayoría de la personas pueden aprender a utilizar [este] %VARIABLE% muy rápidamente."},
+        {"Question8" : "Encontré [el] %VARIABLE% muy incómodo de utilizar."},
+        {"Question9" : "Me siento muy confiado utilizando [el] %VARIABLE%."},
+        {"Question10" : "Tengo que aprender muchas cosas antes de utilizar [este] %VARIABLE%."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "producto"},
+        {"Product" : "producto"},
+        {"System" : "sistema"}
+    ],
+    "VariantGeneratorDescription" : "This spanish variant, translated by Gao et al., is a validated translation of the SUS. It showed high internal reliability and validity in an evaluation of 5 product when compared against the revised english SUS questionnaire.",
+    "VariantAuthors" : "Gao et al. (2020)",
+    "VariantSource" : "https://scholar.google.de/citations?view_op=view_citation&hl=de&user=-c2mRB4AAAAJ&citation_for_view=-c2mRB4AAAAJ:2osOgNQ5qMEC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "true",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

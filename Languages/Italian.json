@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Italian",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Fortemente in disaccordo",
+    "LikertScaleUpperExtreme" : "Assolutamente d'accordo",
+    "Questions": [
+        {"Question1" : "Penso che mi piacerebbe utilizzare [questo] %VARIABLE% frequentemente."},
+        {"Question2" : "Ho trovato [il] %VARIABLE% complesso senza che ce ne fosse bisogno."},
+        {"Question3" : "Ho trovato [il] %VARIABLE% molto semplice da usare."},
+        {"Question4" : "Penso che avrei bisogno del supporto di una persona già in grado di utilizzare [il] %VARIABLE%."},
+        {"Question5" : "Ho trovato le varie funzionalita` [del] %VARIABLE% bene integrate."},
+        {"Question6" : "Ho trovato incoerenze tra le varie funzionalità [del] %VARIABLE%."},
+        {"Question7" : "Penso che la maggior parte delle persone potrebbero imparare ad utilizzare [il] %VARIABLE% facilmente."},
+        {"Question8" : "Ho trovato [il] %VARIABLE% molto macchinoso da utilizzare."},
+        {"Question9" : "Ho avuto molta confidenza con [il] %VARIABLE% durante l’uso."},
+        {"Question10" : "Ho avuto bisogno di imparare molti processi prima di riuscire ad utilizzare al meglio [il] %VARIABLE%."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "sistema"},
+        {"Product" : "prodotto"},
+        {"System" : "sistema"}
+    ],
+    "VariantGeneratorDescription" : "This italian translation of the SUS quesionnaire was included as a side-contribution into a paper about the dimensionality of the SUS by Borci et al. in 2009. While it was peer-reviewed, the psychometric properties of the translation itself were not evaluated.",
+    "VariantAuthors" : "Borsci et al. (2009)",
+    "VariantSource" : "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rfrPpbkAAAAJ&citation_for_view=rfrPpbkAAAAJ:u-x6o8ySG0sC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "false",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

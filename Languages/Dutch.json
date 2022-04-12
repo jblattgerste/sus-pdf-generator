@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Dutch",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Zeer mee oneens",
+    "LikertScaleUpperExtreme" : "Zeer mee eens",
+    "Questions": [
+        {"Question1" : "Ik denk dat ik [de] %VARIABLE% vaak zou w illen gebruiken."},
+        {"Question2" : "Ik vond [de] %VARIABLE% complex."},
+        {"Question3" : "Ik vond [de] %VARIABLE% makkelijk om te gebruiken."},
+        {"Question4" : "Ik denk dat ik ondersteuning nodig heb om [de] %VARIABLE% te kunnen gebruiken."},
+        {"Question5" : "Ik vond de parameters om informatie op te vragen samenhangend."},
+        {"Question6" : "Ik vond teveel inconsistentie in [de] %VARIABLE%."},
+        {"Question7" : "Ik kan me voorstellen dat veel mensen op een snelle w ijze [de] %VARIABLE% leren gebruiken."},
+        {"Question8" : "Ik vond [de] %VARIABLE% heel omslachtig om te gebruiken."},
+        {"Question9" : "Ik voelde me zeer vertrouw d bij het gebruik maken van [de] %VARIABLE%."},
+        {"Question10" : "Ik moest veel dingen leren voordat ik met [de] %VARIABLE% aan de slag kon."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "displays"},
+        {"Product" : "product"},
+        {"System" : "systeem"}
+    ],
+    "VariantGeneratorDescription" : "This dutch translation comes from a thesis by Ramratan. It is not officially peer-reviewed and furhter investigations into the psychometric properties might be need as no construct validity was esteblished. Nontheless, the translation does demonstrate acceptable internal reliability.",
+    "VariantAuthors" : "Ramratan (2010)",
+    "VariantSource" : "https://research.tue.nl/nl/studentTheses/een-andere-kijk-op-tijd",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "false",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

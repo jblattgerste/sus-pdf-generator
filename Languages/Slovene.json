@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Slovene",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Sploh se ne strinjam",
+    "LikertScaleUpperExtreme" : "Se povsem strinjam",
+    "Questions": [
+        {"Question1" : "Menim, da bi [ta] %VARIABLE% rad pogosto uporabljal."},
+        {"Question2" : "%VARIABLE% se mi je zdel po nepotrebnem zapleten."},
+        {"Question3" : "%VARIABLE% se mi je zdel enostaven za uporabo."},
+        {"Question4" : "Menim, da bi za uporabo [tega] %VARIABLE%a potreboval pomočtehnika."},
+        {"Question5" : "Različne funkcije [tega] %VARIABLE%a so se mi zdele dobro povezane v smiselno celoto."},
+        {"Question6" : "%VARIABLE% se mi je zdel preveč nekonsistenten"},
+        {"Question7" : "Menim, da bi se večina uporabnikov zelo hitro nau cila uporabljati [ta] %VARIABLE%."},
+        {"Question8" : "%VARIABLE% se mi je zdel neroden za uporabo"},
+        {"Question9" : "Pri uporabi %VARIABLE%a sem bil zelo suveren."},
+        {"Question10" : "Preden sem osvojil uporabo [tega] %VARIABLE%a, sem se moral nauciti veliko stvari."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "system"},
+        {"Product" : "izdelek"},
+        {"System" : "system"}
+    ],
+    "VariantGeneratorDescription" : "The slovene translation of the SUS by Blažica et al. is a peer-reviewed, validated and internally reliable translation of the original SUS questionnaire. In its publication not only internal reliability but also construct validity, concurrent validity and sensitivity could be shown.",
+    "VariantAuthors" : "Blažica et al. (2014)",
+    "VariantSource" : "https://scholar.google.com/citations?view_op=view_citation&hl=de&user=YHFo7dIAAAAJ&citation_for_view=YHFo7dIAAAAJ:2osOgNQ5qMEC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "true",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

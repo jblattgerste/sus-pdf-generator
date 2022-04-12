@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Danish",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Meget uenig",
+    "LikertScaleUpperExtreme" : "Meget enig",
+    "Questions": [
+        {"Question1" : "Jeg tror godt, at jeg kunne tænke mig at bruge %VARIABLE% ofte."},
+        {"Question2" : "Jeg synes, at %VARIABLE% var unødigt kompliceret at bruge."},
+        {"Question3" : "Jeg synes, at %VARIABLE% var nemt at bruge."},
+        {"Question4" : "Jeg tror, at jeg ville få brug for support fra en tekniker for at kunne bruge %VARIABLE%."},
+        {"Question5" : "Jeg synes, at mange af %VARIABLE%s funktioner var godt integreret med hinanden."},
+        {"Question6" : "Jeg synes, at %VARIABLE% var usammenhængende."},
+        {"Question7" : "Jeg tror, at de fleste hurtigt kan lære at bruge dette %VARIABLE%."},
+        {"Question8" : "Jeg synes, at %VARIABLE% var meget besværligt at bruge."},
+        {"Question9" : "Jeg følte mig sikker på, at jeg kunne bruge %VARIABLE%."},
+        {"Question10" : "Jeg var nødt til at lære en masse ting, for at komme i gang med at bruge %VARIABLE%."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "systemet"},
+        {"Product" : "produkt"},
+        {"System" : "systemet"}
+    ],
+    "VariantGeneratorDescription" : "The danish translation of the SUS was published by Hvidt et al. in 2019. While it is peer-reviewed and shows good internal reliability, validity was not fully established.",
+    "VariantAuthors" : "Hvidt et al. (2019)",
+    "VariantSource" : "https://scholar.google.com/scholar?cluster=6121607978782001070&hl=de&as_sdt=0,5",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

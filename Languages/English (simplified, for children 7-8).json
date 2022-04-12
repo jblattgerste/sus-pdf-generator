@@ -1,0 +1,32 @@
+{
+    "LanguageName": "English (simplified, for children 7-8)",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "I strongly Disagree",
+    "LikertScaleUpperExtreme" : "I strongly Agree",
+    "Questions": [
+        {"Question1" : "I would like to play [this] %VARIABLE% a lot more."},
+        {"Question2" : "[This] %VARIABLE% was hard to play."},
+        {"Question3" : "I thought [this] %VARIABLE% was easy to use."},
+        {"Question4" : "I would need help to play [this] %VARIABLE% more."},
+        {"Question5" : "I knew what to do next when I played [this] %VARIABLE%."},
+        {"Question6" : "Some things in [this] %VARIABLE% made no sense."},
+        {"Question7" : "[this] %VARIABLE% would be easy for my friends to learn."},
+        {"Question8" : "To play [this] %VARIABLE% I had to do some weird things."},
+        {"Question9" : "I was proud of how I played [this] %VARIABLE%."},
+        {"Question10" : "There was a lot to learn to play [this] %VARIABLE%."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "app"},
+        {"Product" : "product"},
+        {"System" : "system"}
+    ],
+    "VariantGeneratorDescription" : "This english variant of the SUS questionnaire by Putman et al. is aimed at children between the ages of 7 and 8 and focused on the usability evaluation of learning apps. As preliminary validity evaluations with a small sample size failed to show full construct validity, the psychometric properties still have to be investigated further.",
+    "VariantAuthors" : "Putnam et al. (2020)",
+    "VariantSource" : "https://scholar.google.de/citations?view_op=view_citation&hl=de&user=RiZTR24AAAAJ&citation_for_view=RiZTR24AAAAJ:hFOr9nPyWt4C",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "false",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

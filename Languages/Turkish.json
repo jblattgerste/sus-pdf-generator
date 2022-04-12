@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Turkish",
+    "PDFTitle": "Sistem Kullanılabilirlik Ölçeği",
+    "LikertScaleLowerExtreme" : "Hiç katılmıyorum",
+    "LikertScaleUpperExtreme" : "Tamamen katılıyorum",
+    "Questions": [
+        {"Question1" : "[Bu] %VARIABLE%i sıklıkla kullanmak isteyeceğimi düşünüyorum."},
+        {"Question2" : "[Bu] %VARIABLE%i gereksiz bir şekilde karmaşık buldum."},
+        {"Question3" : "[Bu] %VARIABLE%in kullanımının kolay olduğunu düşündüm."},
+        {"Question4" : "[Bu] %VARIABLE%i kullanabilmek için daha teknik bir kişinin desteğine ihtiyaç duyacağımı düşünüyorum."},
+        {"Question5" : "[Bu] %VARIABLE%deki çeşitli fonksiyonları iyi entegre edilmiş buldum."},
+        {"Question6" : "[Bu] %VARIABLE%de çok fazla tutarsızlık olduğunu düşündüm."},
+        {"Question7" : "Birçok insanın [bu] %VARIABLE%i kullanmayı çok çabuk öğreneceğini sanıyorum."},
+        {"Question8" : "[Bu] %VARIABLE%in kullanımını çok elverişsiz buldum."},
+        {"Question9" : "[Bu] %VARIABLE%i kullanırken kendimden çok emin hissettim."},
+        {"Question10" : "[Bu] %VARIABLE%de bir şeyler yapabilmek için öncelikle bir çok şey öğrenmem gerekti."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "sistem"},
+        {"Product" : "ürün"},
+        {"System" : "sistem"}
+    ],
+    "VariantGeneratorDescription" : "The turkish translation of the SUS by Demirkol et al. (2018) is a peer-reviewed translation that was developed by forward and backward translation through an expert comintee. It showed acceptable construct validity and internal reliability in its evaluation.",
+    "VariantAuthors" : "Demirkol et al. (2018)",
+    "VariantSource" : "https://scholar.google.de/citations?view_op=view_citation&hl=de&user=jeevbZEAAAAJ&citation_for_view=jeevbZEAAAAJ:5nxA0vEk-isC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "true",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

@@ -1,0 +1,32 @@
+{
+    "LanguageName": "German (SAP)",
+    "PDFTitle": "Fragebogen zur System-Gebrauchstauglichkeit",
+    "LikertScaleLowerExtreme" : "Stimme überhaupt nicht zu",
+    "LikertScaleUpperExtreme" : "Stimme voll zu",
+    "Questions": [
+        {"Question1" : "Ich denke, dass ich [das] %VARIABLE% gerne häufig benutzen würde."},
+        {"Question2" : "Ich fand [das] %VARIABLE% unnötig komplex."},
+        {"Question3" : "Ich fand [das] %VARIABLE% einfach zu benutzen."},
+        {"Question4" : "Ich glaube, ich würde die Hilfe einer technisch versierten Person benötigen, um [das] %VARIABLE% benutzen zu können."},
+        {"Question5" : "Ich fand, die verschiedenen Funktionen in [diesem] %VARIABLE% waren gut integriert."},
+        {"Question6" : "Ich denke, [das] %VARIABLE% enthielt zu viele Inkonsistenzen."},
+        {"Question7" : "Ich kann mir vorstellen, dass die meisten Menschen den Umgang mit [diesem] %VARIABLE% sehr schnell lernen."},
+        {"Question8" : "Ich fand [das] %VARIABLE% sehr umständlich zu nutzen."},
+        {"Question9" : "Ich fühlte mich bei der Benutzung [des] %VARIABLE% sehr sicher."},
+        {"Question10" : "Ich musste eine Menge lernen, bevor ich anfangen konnte [das] %VARIABLE% zu verwenden."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "System"},
+        {"Product" : "Produkt"},
+        {"System" : "System"}
+    ],
+    "VariantGeneratorDescription" : "This german SUS translation was made available by a group of usability professionals at SAP in 2013 and is based on the original english SUS version by Brooke. The project was started by Wolfgang Reinhardt. While it was not officially peer-reviewed and no insights on its psychometric properties exist, it was translated by an expert commintee combining independent forward and backward translation. While not validated, this version is likely the most commonly used German translation of the SUS.",
+    "VariantAuthors" : "Reinhardt et al. (2013)",
+    "VariantSource" : "https://blogs.sap.com/2016/02/01/system-usability-scale-jetzt-auch-auf-deutsch/",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "false",
+    "VariantIsFromPeerReviewedSource" : "false",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

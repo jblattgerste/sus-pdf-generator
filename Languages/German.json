@@ -1,0 +1,32 @@
+{
+    "LanguageName": "German",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Stimme überhaupt nicht zu",
+    "LikertScaleUpperExtreme" : "Stimme voll zu",
+    "Questions": [
+        {"Question1" : "Ich denke, dass ich [dieses] %VARIABLE% häufig verwenden möchte."},
+        {"Question2" : "Ich fand [das] %VARIABLE% unnötig komplex."},
+        {"Question3" : "Ich dachte, [das] %VARIABLE% war einfach zu bedienen."},
+        {"Question4" : "Ich denke, dass ich die Unterstützung einer technischen Person brauche, um [dieses] %VARIABLE% nutzen zu können."},
+        {"Question5" : "Ich fand die verschiedenen Funktionen in [diesem] %VARIABLE% waren gut integriert."},
+        {"Question6" : "Ich dachte, dass [dieses] %VARIABLE% nicht konsistent genug war."},
+        {"Question7" : "Ich würde mir vorstellen, dass die meisten Leute sehr schnell lernen würden, [dieses] %VARIABLE% zu benutzen."},
+        {"Question8" : "Ich fand [dieses] %VARIABLE% sehr umständlich zu benutzen."},
+        {"Question9" : "Ich habe mich sehr selbstsicher gefühlt, [dieses] %VARIABLE% zu verwenden."},
+        {"Question10" : "Ich musste eine Menge Dinge lernen, bevor ich mit [diesem] %VARIABLE% loslegen konnte."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "Produkt"},
+        {"Product" : "Produkt"},
+        {"System" : "System"}
+    ],
+    "VariantGeneratorDescription" : "This german variant, translated by Gao et al., is a validated translation of the SUS. It showed high internal reliability and validity in an evaluation of 5 product when compared against the revised english SUS questionnaire. It was validated with and is therefore intended to be used with the descriptor \"product\".",
+    "VariantAuthors" : "Gao et al. (2020)",
+    "VariantSource" : "https://scholar.google.de/citations?view_op=view_citation&hl=de&user=-c2mRB4AAAAJ&citation_for_view=-c2mRB4AAAAJ:2osOgNQ5qMEC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "true",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

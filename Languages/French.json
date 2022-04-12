@@ -1,0 +1,32 @@
+{
+    "LanguageName": "French",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Pas du tout d'accord",
+    "LikertScaleUpperExtreme" : "Tout à fait d'accord",
+    "Questions": [
+        {"Question1" : "Je pense que j'aimerais utiliser [ce] %VARIABLE% fréquemmment."},
+        {"Question2" : "J'ai trouvé [le] %VARIABLE% inutilement complexe."},
+        {"Question3" : "J'ai trouvé que [le] %VARIABLE% était facile à utiliser."},
+        {"Question4" : "Je pense que j'aurais besoin de l'aide d'un expert technique pour pouvoir utiliser [ce] %VARIABLE%."},
+        {"Question5" : "J'ai trouvé que les différentes fonctions de [ce] %VARIABLE% étaient bien intégrées."},
+        {"Question6" : "J'ai trouvé que [ce] %VARIABLE% était trop incohérent."},
+        {"Question7" : "J'imagine que la plupart des gens apprendraient très rapidement à utiliser [ce] %VARIABLE%."},
+        {"Question8" : "j'ai trouvé [le] %VARIABLE% très difficile à utiliser."},
+        {"Question9" : "J'ai utilisé [ce] %VARIABLE% avec beaucoup de confiance."},
+        {"Question10" : "J'ai eu besoin d'apprendre beaucoup de choses avant de pouvoir commencer à utiliser [ce] %VARIABLE%."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "produit"},
+        {"Product" : "produit"},
+        {"System" : "système"}
+    ],
+    "VariantGeneratorDescription" : "This french variant, translated by Gao et al., is a validated translation of the SUS. It showed high internal reliability and validity in an evaluation of 5 product when compared against the revised english SUS questionnaire.",
+    "VariantAuthors" : "Gao et al. (2020)",
+    "VariantSource" : "https://scholar.google.de/citations?view_op=view_citation&hl=de&user=-c2mRB4AAAAJ&citation_for_view=-c2mRB4AAAAJ:2osOgNQ5qMEC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "true",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

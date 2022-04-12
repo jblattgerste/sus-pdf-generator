@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Swedish",
+    "PDFTitle": "Användbarheten i Produkten",
+    "LikertScaleLowerExtreme" : "Instämmer inte alls",
+    "LikertScaleUpperExtreme" : "Instämmer helt",
+    "Questions": [
+        {"Question1" : "Jag använder gärna %VARIABLE%."},
+        {"Question2" : "Jag drar mig för att använda %VARIABLE%, den är onödigt komplicerad."},
+        {"Question3" : "Jag tycker [att] %VARIABLE% är lätt att använda"},
+        {"Question4" : "Jag behöver ofta hjälp av en kollega eller fråga någon teknisk person för att kunna använda %VARIABLE%."},
+        {"Question5" : "Jag tycker att funktionerna i %VARIABLE% är väl organiserade och tydliga."},
+        {"Question6" : "Jag tycker att det finns för mycket inkonsekvens och ologiska vägar i %VARIABLE%."},
+        {"Question7" : "Jag kan tänka mig att de flesta skulle lära sig att använda %VARIABLE% mycket snabbt."},
+        {"Question8" : "Jag tror att många tycker [att] %VARIABLE% är mycket besvärligt att använda."},
+        {"Question9" : "Jag känner mig väldigt säker på hur jag skall använda %VARIABLE%."},
+        {"Question10" : "Jag behövde lära mig mycket innan jag kom igång med %VARIABLE%. "}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "produkten"},
+        {"Product" : "produkten"},
+        {"System" : "systemet"}
+    ],
+    "VariantGeneratorDescription" : "This swedisch translation of the SUS quesionnaire was created by Bengt Göransson and published by Rosenfeld Media. It is not peer-reviewed and its psychometric properties were not investigated.",
+    "VariantAuthors" : "Göransson (2001)",
+    "VariantSource" : "https://rosenfeldmedia.com/announcements/sus-svensk-system-usability-sc/",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "false",
+    "VariantIsFromPeerReviewedSource" : "false",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}

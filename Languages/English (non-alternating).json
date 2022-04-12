@@ -1,0 +1,32 @@
+{
+    "LanguageName": "English (non-alternating)",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Strongly Disagree",
+    "LikertScaleUpperExtreme" : "Strongly Agree",
+    "Questions": [
+        {"Question1" : "I think that I would like to use [this] %VARIABLE% frequently."},
+        {"Question2" : "I found [this] %VARIABLE% to be simple."},
+        {"Question3" : "I thought [this] %VARIABLE% was easy to use."},
+        {"Question4" : "I think that I could use [this] %VARIABLE% without the support of a technical person."},
+        {"Question5" : "I found the various functions in [this] %VARIABLE% were well integrated."},
+        {"Question6" : "I thought there was a lot of consistency in [this] %VARIABLE%."},
+        {"Question7" : "I would imagine that most people would learn to use [this] %VARIABLE% very quickly."},
+        {"Question8" : "I found [this] %VARIABLE% very intuitive."},
+        {"Question9" : "I felt very confident using [this] %VARIABLE%."},
+        {"Question10" : "I could use [this] %VARIABLE% without having to learn anything new. "}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "website"},
+        {"Product" : "product"},
+        {"System" : "system"}
+    ],
+    "VariantGeneratorDescription" : "The non-alternating SUS questionnaire developed by Sauro et al. has all statements worded positively. Therefore, the even items 2, 4, 6, 8, and 10 were rephrased. While the internal reliability is nearly identical with the original SUS and the validation efforts showed comparable scores, researchers should be careful using this variant. It differs from all other versions: SUS scores are calculated differently, Item-level benchmarks and comparisons are not possible, and it is <b>not compatible</b> with the SUS Analysis Toolkit.",
+    "VariantAuthors" : "Sauro et al. (2011)",
+    "VariantSource" : "https://scholar.google.com/citations?view_op=view_citation&hl=de&user=rmiLIsYAAAAJ&citation_for_view=rmiLIsYAAAAJ:Fu2w8maKXqMC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "true",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "true",
+    "CommunityContribution" : "false"
+}

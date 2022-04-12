@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Polish",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Zdecydowanie się nie zgadzam",
+    "LikertScaleUpperExtreme" : "Stanowczo się zgadzam",
+    "Questions": [
+        {"Question1" : "Myślę, że często używałbym/używałabym [tego] %VARIABLE%u."},
+        {"Question2" : "Odbieram [ten] %VARIABLE% jako niepotrzebnie skomplikowany."},
+        {"Question3" : "Myślę, [że] %VARIABLE% jest łatwy w użyciu."},
+        {"Question4" : "Myślę, że potrzebowałbym/potrzebowałabym wsparcia asystenta, aby używać [tego] %VARIABLE%u."},
+        {"Question5" : "Uważam, że różne funkcje [tego] %VARIABLE% są dobrze zintegrowane."},
+        {"Question6" : "Myślę, że w [tym] %VARIABLE%ie jest za dużo niespójności."},
+        {"Question7" : "Wydaje mi się, że większość ludzi nauczyłaby się bardzo szybko używać [tego] %VARIABLE%u."},
+        {"Question8" : "Odbieram [ten] %VARIABLE% jako bardzo niewygodny w użyciu."},
+        {"Question9" : "Czułem/czułam się bardzo pewnie używając [tego] %VARIABLE%u."},
+        {"Question10" : "Musiałem/musiałam nauczyć się wielu rzeczy, zanim zacząłem/zaczęłam właściwie posługiwać się [tym] %VARIABLE%em."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "system"},
+        {"Product" : "produkt"},
+        {"System" : "system"}
+    ],
+    "VariantGeneratorDescription" : "The polish SUS version by Borkowska et al. was developed through six initial forward translations, followed by an expert synthesis. It shows acceptable internal reliability and validity when compared with the english version of the SUS.",
+    "VariantAuthors" : "Borkowska et al. (2017)",
+    "VariantSource" : "https://scholar.google.com/citations?view_op=view_citation&hl=de&user=8MzTWB0AAAAJ&citation_for_view=8MzTWB0AAAAJ:Y0pCki6q_DkC",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "true",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}
