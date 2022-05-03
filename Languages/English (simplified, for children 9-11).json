@@ -4,7 +4,7 @@
     "LikertScaleLowerExtreme" : "I strongly Disagree",
     "LikertScaleUpperExtreme" : "I strongly Agree",
     "Questions": [
-        {"Question1" : "If I had this [this] %VARIABLE% on my iPad, I think that I would like to play it a lot."},
+        {"Question1" : "If I had [this] %VARIABLE% on my iPad, I think that I would like to play it a lot."},
         {"Question2" : "I was confused many times when I was playing [this] %VARIABLE%."},
         {"Question3" : "I thought [this] %VARIABLE% was easy to use."},
         {"Question4" : "I would need help from an adult to continue to play [this] %VARIABLE%."},
