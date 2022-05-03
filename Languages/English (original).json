@@ -9,7 +9,7 @@
         {"Question3" : "I thought [this] %VARIABLE% was easy to use."},
         {"Question4" : "I think that I would need the support of a technical person to be able to use [this] %VARIABLE%."},
         {"Question5" : "I found the various functions in [this] %VARIABLE% were well integrated."},
-        {"Question6" : "I thought there was too much inconsistency in [this] %VARIABLE%"},
+        {"Question6" : "I thought there was too much inconsistency in [this] %VARIABLE%."},
         {"Question7" : "I would imagine that most people would learn to use [this] %VARIABLE% very quickly."},
         {"Question8" : "I found [this] %VARIABLE% very cumbersome to use."},
         {"Question9" : "I felt very confident using [this] %VARIABLE%."},
