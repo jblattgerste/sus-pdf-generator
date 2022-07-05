@@ -1,0 +1,32 @@
+{
+    "LanguageName": "French (literary)",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Pas du tout d'accord",
+    "LikertScaleUpperExtreme" : "Tout à fait d'accord",
+    "Questions": [
+        {"Question1" : "Je voudrais utiliser [ce] %VARIABLE% fréquemment."},
+        {"Question2" : "[Ce ]%VARIABLE% est inutilement complexe."},
+        {"Question3" : "[Ce ]%VARIABLE% est facile à utiliser."},
+        {"Question4" : "J’aurais besoin du soutien d’un technicien pour être capable d'utiliser [ce] %VARIABLE%."},
+        {"Question5" : "Les différentes fonctionnalités de [ce] %VARIABLE% sont bien intégrées."},
+        {"Question6" : "Il y a trop d’incohérences dans [ce] %VARIABLE%."},
+        {"Question7" : "La plupart des gens apprendront à utiliser [ce] %VARIABLE% très rapidement."},
+        {"Question8" : "[Ce ]%VARIABLE% est très lourd à utiliser."},
+        {"Question9" : "Je me suis senti·e très en confiance en utilisant [ce] %VARIABLE%."},
+        {"Question10" : "J’ai eu besoin d’apprendre beaucoup de choses avant de pouvoir utiliser [ce] %VARIABLE%."}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "produit"},
+        {"Product" : "produit"},
+        {"System" : "système"}
+    ],
+    "VariantGeneratorDescription" : "This french variant, translated by Gronier et al., is a validated translation of the SUS. It showed high consistency and validity in evaluations. In contrast to the french variant by Gao et al., this variant focuses on a more literary translation by using more customary french linguistic formulations.",
+    "VariantAuthors" : "Gronier et al. (2021)",
+    "VariantSource" : "https://scholar.google.com/citations?view_op=view_citation&hl=de&user=hiiN2OsAAAAJ&citation_for_view=hiiN2OsAAAAJ:35N4QoGY0k4C",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "true",
+    "VariantIsInternallyReliable" : "true",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}
