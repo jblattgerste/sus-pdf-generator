@@ -5,12 +5,12 @@
     "LikertScaleUpperExtreme" : "I strongly Agree",
     "Questions": [
         {"Question1" : "I would like to play [this] %VARIABLE% a lot more."},
-        {"Question2" : "[This] %VARIABLE% was hard to play."},
+        {"Question2" : "[This ]%VARIABLE% was hard to play."},
         {"Question3" : "I thought [this] %VARIABLE% was easy to use."},
         {"Question4" : "I would need help to play [this] %VARIABLE% more."},
         {"Question5" : "I knew what to do next when I played [this] %VARIABLE%."},
         {"Question6" : "Some things in [this] %VARIABLE% made no sense."},
-        {"Question7" : "[this] %VARIABLE% would be easy for my friends to learn."},
+        {"Question7" : "[This ]%VARIABLE% would be easy for my friends to learn."},
         {"Question8" : "To play [this] %VARIABLE% I had to do some weird things."},
         {"Question9" : "I was proud of how I played [this] %VARIABLE%."},
         {"Question10" : "There was a lot to learn to play [this] %VARIABLE%."}
