@@ -1,0 +1,32 @@
+{
+    "LanguageName": "Dutch (simplified, for children 9-11)",
+    "PDFTitle": "System Usability Scale (SUS)",
+    "LikertScaleLowerExtreme" : "Zeer mee oneens",
+    "LikertScaleUpperExtreme" : "Zeer mee eens",
+    "Questions": [
+        {"Question1" : "Als ik [deze] %VARIABLE% op mijn iPad had, zou ik het vaak spelen."},
+        {"Question2" : "Tijdens het spelen van [de] %VARIABLE% was ik vaak in de war."},
+        {"Question3" : "Ik denk dat [de] %VARIABLE% makkelijk te gebruiken is."},
+        {"Question4" : "Ik zou hulp van een volwassene nodig hebben om [deze] %VARIABLE% te spelen."},
+        {"Question5" : "Tijdens het spelen van [de] %VARIABLE% wist ik hoe ik verder moest."},
+        {"Question6" : "Sommige dingen die ik in [de] %VARIABLE% moest doen, begreep ik niet."},
+        {"Question7" : "Ik denk dat de meeste van mijn vrienden snel zouden leren hoe zij [de] %VARIABLE% moeten spelen."},
+        {"Question8" : "Sommige dingen die ik tijdens het spelen van [de] %VARIABLE% moest doen, waren raar."},
+        {"Question9" : "Ik had zelfvertrouwen tijdens het spelen van [de] %VARIABLE%."},
+        {"Question10" : "Ik moest veel leren voor ik [de] %VARIABLE% goed kon spelen. "}
+    ],
+    "VariableDescriptors":[
+        {"Default" : "app"},
+        {"Product" : "product"},
+        {"System" : "systeem"}
+    ],
+    "VariantGeneratorDescription" : "This dutch variant by Arztmann et al., is a variation of an english variant of the SUS questionnaire by Putnam et al. and is aimed at children between the ages of 9 and 11. It has a focus on the evaluation of learning apps. Preliminary validity evaluations with a small sample size by Putnam et al. failed to show full construct validity. As Arztmann et al. also reported rather low internal reliability with a larger sample size, results of this version should be interpreted with caution.",
+    "VariantAuthors" : "Arztmann et al. (2022)",
+    "VariantSource" : "https://mixality.de/wp-content/uploads/2022/07/Arztmann2022MariesChemLab.pdf",
+    "VariantIsOriginal" : "false",
+    "VariantIsValidated" : "false",
+    "VariantIsInternallyReliable" : "false",
+    "VariantIsFromPeerReviewedSource" : "true",
+    "VariantNeedForCaution" : "false",
+    "CommunityContribution" : "false"
+}
