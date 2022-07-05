@@ -16,7 +16,7 @@
         {"Question10" : "J’ai eu besoin d’apprendre beaucoup de choses avant de pouvoir utiliser [ce] %VARIABLE%."}
     ],
     "VariableDescriptors":[
-        {"Default" : "produit"},
+        {"Default" : "système"},
         {"Product" : "produit"},
         {"System" : "système"}
     ],
