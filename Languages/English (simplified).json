@@ -5,13 +5,13 @@
     "LikertScaleUpperExtreme" : "Strongly Agree",
     "Questions": [
         {"Question1" : "I would use [this] %VARIABLE% frequently."},
-        {"Question2" : "[This] %VARIABLE% is too complex for me."},
-        {"Question3" : "[This] %VARIABLE% was easy to use."},
+        {"Question2" : "[This ]%VARIABLE% is too complex for me."},
+        {"Question3" : "[This ]%VARIABLE% was easy to use."},
         {"Question4" : "I really need help from someone to use [this] %VARIABLE%."},
         {"Question5" : "The various parts of [this] %VARIABLE% were well integrated."},
-        {"Question6" : "[This] %VARIABLE% was confusing for me."},
+        {"Question6" : "[This ]%VARIABLE% was confusing for me."},
         {"Question7" : "Learning to use [this] %VARIABLE% was quick for me."},
-        {"Question8" : "[This] %VARIABLE% was hard to use."},
+        {"Question8" : "[This ]%VARIABLE% was hard to use."},
         {"Question9" : "I felt confident using [this] %VARIABLE%."},
         {"Question10" : "I will need to learn a lot before using [this] %VARIABLE%."}
     ],
