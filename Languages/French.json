@@ -11,7 +11,7 @@
         {"Question5" : "J'ai trouvé que les différentes fonctions de [ce] %VARIABLE% étaient bien intégrées."},
         {"Question6" : "J'ai trouvé que [ce] %VARIABLE% était trop incohérent."},
         {"Question7" : "J'imagine que la plupart des gens apprendraient très rapidement à utiliser [ce] %VARIABLE%."},
-        {"Question8" : "j'ai trouvé [le] %VARIABLE% très difficile à utiliser."},
+        {"Question8" : "J'ai trouvé [le] %VARIABLE% très difficile à utiliser."},
         {"Question9" : "J'ai utilisé [ce] %VARIABLE% avec beaucoup de confiance."},
         {"Question10" : "J'ai eu besoin d'apprendre beaucoup de choses avant de pouvoir commencer à utiliser [ce] %VARIABLE%."}
     ],
