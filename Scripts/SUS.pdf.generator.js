@@ -319,7 +319,7 @@ async function GeneratePDFQuestionnaire() {
 function AddQuestionToPDF(pdf, questionText, verticalPosition) {
     //If the Custom variable descriptor option is selected, just delete all the articles in the backets, otherwise only the brackets
     if (document.getElementById("questionnaireDescriptor").options[document.getElementById("questionnaireDescriptor").selectedIndex].text == "Custom") {
-        questionText = questionText.replace(/ *\[[^)]*\] */g, "");
+        questionText = questionText.replace(/ *\[[^)]*\] */g, " ");
     } else {
         questionText = questionText.replace("[", "").replace("]", "");
     }
