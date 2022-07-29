@@ -46,16 +46,16 @@ abstract: >-
 license: MIT
 date-released: '2022-01-01'
 preferred-citation:
-  - authors:
-      - given-names: Jonas
-        family-names: Blattgerste
-      - given-names: Jan
-        family-names: Behrends
-      - given-names: Thies
-        family-names: Pfeiffer
-    conference:
-        name: "Proceedings of the 15th International Conference on PErvasive Technologies Related to Assistive Environments"
-    doi: 10.1145/3529190.3529216
-    title: "A Web-Based Analysis Toolkit for the System Usability Scale"
-    type: proceedings
-    year: 2022
+  authors:
+    - given-names: Jonas
+      family-names: Blattgerste
+    - given-names: Jan
+      family-names: Behrends
+    - given-names: Thies
+      family-names: Pfeiffer
+  conference:
+      name: "Proceedings of the 15th International Conference on PErvasive Technologies Related to Assistive Environments"
+  doi: 10.1145/3529190.3529216
+  title: "A Web-Based Analysis Toolkit for the System Usability Scale"
+  type: proceedings
+  year: 2022
