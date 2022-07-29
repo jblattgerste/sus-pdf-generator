@@ -45,7 +45,7 @@ abstract: >-
   publications and presentations.
 license: MIT
 date-released: '2022-01-01'
-references:
+preferred-citation:
   - authors:
       - given-names: Jonas
         family-names: Blattgerste
