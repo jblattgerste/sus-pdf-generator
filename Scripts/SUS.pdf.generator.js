@@ -276,6 +276,9 @@ async function GeneratePDFQuestionnaire() {
     //Generate a jsPDF
     window.jsPDF = window.jspdf.jsPDF;
     var pdf = new jsPDF();
+    pdf.setProperties({
+        title: 'System Usability Scale'
+    });
 
     //Add Roboto fonts
     pdf.addFont("https://jblattgerste.github.io/sus-pdf-generator/Fonts/Roboto-Regular.ttf", "roboto", "regular");
