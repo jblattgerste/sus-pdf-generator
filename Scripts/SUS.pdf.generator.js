@@ -32,7 +32,11 @@ async function OnStart() {
 //Display a refreshed PDF on the webpage
 async function RefreshDisplayedPDF() {
     var pdf = await GeneratePDFQuestionnaire();
-    PDFObject.embed(pdf.output('datauristring'), "#PDF-Holder");
+    PDFObject.embed(pdf.output('datauristring'), "#PDF-Holder", {
+        pdfOpenParams: {
+            navpanes: 0
+        }
+    });
     console.log("The PDF preview was refreshed.");
 }
 
