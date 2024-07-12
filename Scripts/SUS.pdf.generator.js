@@ -316,7 +316,6 @@ async function GeneratePDFQuestionnaire() {
     //Add the footer to show a link to the tool
     pdf.setFontSize(9);
     pdf.setFont("roboto", "light");
-    pdf.text("Created with the SUS PDF Generator (https://jblattgerste.github.io/sus-pdf-generator/)", 105, 290, null, null, "center");
 
     //Return the completed pdf
     return pdf;
