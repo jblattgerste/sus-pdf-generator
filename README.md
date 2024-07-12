@@ -5,7 +5,7 @@ The System Usability Scale (SUS) PDF generator is a client-side-only JavaScript 
 ![The SUS PDF Generator, running on a laptop mockup](/Resources/PDFGeneratorPreview.png)
 
 ## Using the SUS PDF Generator
-The SUS PDF Generator is hosted on https://jblattgerste.github.io/sus-pdf-generator/ and automatically deployed on changes to the main branch. Questionnaire versions and translations are each stored as `.json` files, containing: The questionnaire title, likert-scale descriptions, the 10 SUS questions, the source and authors of the version, and generator hints on the versions origin, relibaility and validity:
+The SUS PDF Generator is hosted on http://pdf.sus.tools/ and automatically deployed on changes to the main branch. Questionnaire versions and translations are each stored as `.json` files, containing: The questionnaire title, likert-scale descriptions, the 10 SUS questions, the source and authors of the version, and generator hints on the versions origin, relibaility and validity:
 
 - [<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="20">`Languages\English (revised).json`](https://github.com/jblattgerste/sus-pdf-generator/blob/main/Languages/English%20(revised).json) based on [Bangor et al. (2008)](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=BD7BLDgAAAAJ&citation_for_view=BD7BLDgAAAAJ:u5HHmVD_uO8C)
 - [<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="20">`Languages\English (original).json`](https://github.com/jblattgerste/sus-pdf-generator/blob/main/Languages/English%20(original).json) based on [Brooke (1996)](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=qjAGPUcAAAAJ&citation_for_view=qjAGPUcAAAAJ:u5HHmVD_uO8C)
