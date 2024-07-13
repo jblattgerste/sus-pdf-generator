@@ -262,7 +262,7 @@ async function OnCustomNameChanged() {
 
 //Fetches the langauge file JSON and returns it as an object
 async function FetchLanguageFile(languageName) {
-    let url = "https://jblattgerste.github.io/sus-pdf-generator/Languages/" + languageName + ".json";
+    let url = `/Languages/${languageName}.json`;
     try {
         let res = await fetch(url);
         return await res.json();
@@ -281,9 +281,9 @@ async function GeneratePDFQuestionnaire() {
     });
 
     //Add Roboto fonts
-    pdf.addFont("https://jblattgerste.github.io/sus-pdf-generator/Fonts/Roboto-Regular.ttf", "roboto", "regular");
-    pdf.addFont("https://jblattgerste.github.io/sus-pdf-generator/Fonts/Roboto-Bold.ttf", "roboto", "bold");
-    pdf.addFont("https://jblattgerste.github.io/sus-pdf-generator/Fonts/Roboto-LightItalic.ttf", "roboto", "light");
+    pdf.addFont("/Fonts/Roboto-Regular.ttf", "roboto", "regular");
+    pdf.addFont("/Fonts/Roboto-Bold.ttf", "roboto", "bold");
+    pdf.addFont("/Fonts/Roboto-LightItalic.ttf", "roboto", "light");
 
     //Page title
     pdf.setFontSize(21);
